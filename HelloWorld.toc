@@ -1,0 +1,7 @@
+## Interface: 100000
+## Title: HelloWorld
+## Notes: Shows a message of "Hello World"
+## Author: Mikkel Bentsen
+## Version: 0.0.1
+
+HelloWorld.lua
