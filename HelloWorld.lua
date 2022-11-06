@@ -1,4 +1,4 @@
-SLAH_HELLO1 = "/helloworld"
+SLASH_HELLO1 = "/helloworld"
 SLASH_HELLO2 = "/hellow"
 
 local function showGreeting(name)
